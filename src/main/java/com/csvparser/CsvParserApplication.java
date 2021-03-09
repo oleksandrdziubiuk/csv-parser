@@ -9,5 +9,4 @@ public class CsvParserApplication {
     public static void main(String[] args) {
         SpringApplication.run(CsvParserApplication.class, args);
     }
-
 }
